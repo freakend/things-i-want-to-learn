@@ -1,2 +1,5 @@
 # things-i-want-to-learn
-materi belajar
+
+* Strapi
+
+https://www.codepolitan.com/mudah-membuat-api-tanpa-koding-dengan-strapi
