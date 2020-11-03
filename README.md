@@ -1,6 +1,6 @@
 # things-i-want-to-learn
 
-* Fake API (api mockup)
+* Fake API (api mockups)
 
 https://mocki.io/fake-json-api
 
