@@ -1,5 +1,14 @@
 # things-i-want-to-learn
 
+* Postman ✅
+
+https://medium.com/skyshidigital/documentation-testing-api-dengan-postman-part-1-5d33e430dca7
+
+* Akses public api (web programming unpas) ✅
+
+https://www.youtube.com/watch?v=TvOFqREy7A8
+
+
 * Fake API (apis mockup)
 
 https://mocki.io/fake-json-api
